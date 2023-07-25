@@ -2,7 +2,7 @@ let movies = [
     {
         name: "falcon and the winter soldier",
         des: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        image: "images/slider 2.png"
+        image: "./images/slider 2.png"
     },
     {
         name: "loki",
